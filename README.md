@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nerway
 - 👀 I’m interested in hacking timespace
-- 🌱 I’m currently learning how to build the next Unicorn
+- 🌱 Unicorn hunting
 - 💞️ I’m looking to collaborate on startup projects.
 - 📫 You can reach me at jneerway@gmail.com
 
