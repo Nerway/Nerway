@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nerway
+- 👋 Hi, I’m Jutyar
 - 👀 I’m interested in hacking timespace
 - 🌱 Unicorn hunting
 - 💞️ I’m looking to collaborate on startup projects.
