@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jutyar
+- 👋 Hi, I’m Joe
 - 👀 I’m interested in hacking timespace
 - 🌱 Unicorn hunting
-- 📫 You can reach me at jneerway@gmail.com
+- 📫 You can reach me at root@syntax.codes
 
 <!---
 Nerway/Nerway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
